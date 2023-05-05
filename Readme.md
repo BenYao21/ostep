@@ -1,2 +1,2 @@
-### Personal ostep learning ###
-## project 1 in progress ##
+## Personal ostep learning ##
+### project 1 in progress ###
