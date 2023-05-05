@@ -1,1 +1,2 @@
-### Hello, world ###
+### Personal ostep learning ###
+## project 1 in progress ##
